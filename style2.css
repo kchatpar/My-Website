@@ -1,0 +1,116 @@
+body{
+  position: relative;
+
+  -webkit-font-smoothing: antialiased;
+     -moz-user-select: none;
+       -o-user-select: none;
+      -ms-user-select: none;
+}
+#c {
+    padding-top:50px;height:550px;width: 100%;
+    position: absolute;
+    top: 0;
+    left: 0;
+    opacity:0.3;
+}
+.info {
+    position: absolute;
+    top: 0;
+    left: 0;
+    padding: 5px 15px;
+    color: #eee;
+    font-size: 13px;
+}
+#headshot {
+  display: block;
+  margin: 0 auto;
+  opacity:1.0;
+}
+#logo{
+  display: block;
+  margin: 0 auto;
+}
+#tpg{
+  display: block;
+  margin: 0 auto;
+}
+
+#section1 {
+  padding-top:50px;height:550px;
+  color: #fff;
+  background-color: #000000;
+  opacity:1.0;
+}
+#section2{
+  padding-top:10px;height:500px;
+  color: #800000;
+  background-color: #FFFFFF ;
+}
+#section3 {
+  background-image: url("cshlwater.jpg");
+  background-size: cover;
+  color: #800000;
+  height:500px;
+}
+#section4 {
+  padding-top:50px;height:900px;
+  color:  #bfbfbf; background-color: #000000;
+}
+#section5{
+  padding-top:10px;height:200px;
+
+  background-color: #FFFFFF;
+}
+
+#cshl{
+  display: block;
+  margin: 0 auto;
+}
+#yale{
+  display: block;
+  margin: 0 auto;
+}
+#taj{
+  display: block;
+  margin: 0 auto;
+}
+#beach{
+  display: block;
+  margin: 0 auto;
+}
+#home{
+  display: block;
+  margin: 0 auto;
+}
+#intro{
+  display: block;
+  margin: 0 auto;
+}
+.intro{
+  text-align: center
+}
+.center{
+  margin: auto;
+  width: 15%;
+  padding: 10px;
+}
+
+.fa {
+    padding: 20px;
+    font-size: 30px;
+    width: 50px;
+    text-align: center;
+    text-decoration: none;
+}
+.fa-linkedin {
+  color: #007bb5;
+}
+.fa-instagram {
+  color: #125688;
+}
+.fa-twitter {
+  color: #55ACEE;
+}
+.fa:hover {
+    opacity: 0.7;
+}
