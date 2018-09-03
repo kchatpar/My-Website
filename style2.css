@@ -37,22 +37,21 @@ body{
 }
 
 #section1 {
-  padding-top:50px;height:600px;
+  padding-top:50px;height:650px;
   color: #fff;
   background-color: #000000;
   opacity:1.0;
 }
 #section2{
   padding-top:10px;height:500px;
-  color: #800000;
+  color: rgb(0, 0, 0);
   background-color: #FFFFFF ;
   
 }
 #section3 {
-  background-image: url("cshlwater.jpg");
   background-size: cover;
-  color: #800000;
-  height:500px;
+  color: #000000;
+  height:400px;
   text-align: center;
 }
 #section4 {
@@ -61,8 +60,9 @@ body{
 }
 #section5{
   padding-top:10px;height:200px;
-
   background-color: #FFFFFF;
+  color: rgb(0, 0, 0);
+  text-align: center;
 }
 
 #cshl{
