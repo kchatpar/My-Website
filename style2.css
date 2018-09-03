@@ -46,7 +46,6 @@ body{
   padding-top:10px;height:500px;
   color: rgb(0, 0, 0);
   background-color: #FFFFFF ;
-  
 }
 #section3 {
   background-size: cover;
@@ -54,6 +53,7 @@ body{
   height:400px;
   text-align: center;
 }
+
 #section4 {
   padding-top:50px;height:900px;
   color:  #bfbfbf; background-color: #000000;
@@ -61,7 +61,7 @@ body{
 #section5{
   padding-top:10px;height:200px;
   background-color: #FFFFFF;
-  color: rgb(0, 0, 0);
+  color: #000000;
   text-align: center;
 }
 
