@@ -30,13 +30,14 @@ body{
   display: block;
   margin: 0 auto;
 }
-#tpg{
+#TPJ{
   display: block;
   margin: 0 auto;
+  text-align: center;
 }
 
 #section1 {
-  padding-top:50px;height:550px;
+  padding-top:50px;height:600px;
   color: #fff;
   background-color: #000000;
   opacity:1.0;
@@ -45,12 +46,14 @@ body{
   padding-top:10px;height:500px;
   color: #800000;
   background-color: #FFFFFF ;
+  
 }
 #section3 {
   background-image: url("cshlwater.jpg");
   background-size: cover;
   color: #800000;
   height:500px;
+  text-align: center;
 }
 #section4 {
   padding-top:50px;height:900px;
